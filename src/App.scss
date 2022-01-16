@@ -1,0 +1,24 @@
+container {
+
+    .header{
+        width: 90%;
+        background: url('./20538393.png');
+        padding: 2rem;
+        margin: 3rem;
+        text-align: center;
+        height: 50rem;
+
+    }
+    .section {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+
+    }.body{
+        display: flex;
+        justify-content: space-around;
+        margin: 3rem;
+        padding: 1rem;
+        flex-direction: row;
+
+    }
